@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>KEEWI - Terms and Conditions</title>
+</head>
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+  <h1>Terms and Conditions</h1>
+  <p>Welcome to KEEWI!</p>
+  <p>These terms and conditions outline the rules and regulations for the use of the KEEWI mobile application.</p>
+
+  <h2>1. Acceptance</h2>
+  <p>By accessing this app, we assume you accept these terms and conditions. Do not continue to use KEEWI if you do not agree to all of the terms stated on this page.</p>
+
+  <h2>2. Use of the App</h2>
+  <p>You must be at least 13 years old to use KEEWI. You agree to use the app only for lawful purposes.</p>
+
+  <h2>3. Intellectual Property</h2>
+  <p>All content within KEEWI is the property of the app developers unless otherwise stated.</p>
+
+  <h2>4. Termination</h2>
+  <p>We may suspend or terminate your access to the app if you violate these terms.</p>
+
+  <h2>5. Changes to Terms</h2>
+  <p>We reserve the right to revise these terms at any time. Changes will be posted within the app.</p>
+
+  <p>For any questions, contact us at: <strong>support@keewi.app</strong></p>
+</body>
+</html>
